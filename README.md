@@ -1,4 +1,4 @@
-# Project Name
+# Semantic segmentation using sattelite imagery
 
 Semantic Segmentation on Satellite Imagery with Masked Images and RGB Images
 
@@ -22,7 +22,6 @@ To run this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Navigate to the project directory: `cd your-repo`
-3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
